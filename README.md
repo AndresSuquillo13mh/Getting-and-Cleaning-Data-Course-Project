@@ -25,14 +25,14 @@ You should create one R script called run_analysis.R that does the following.
 ## Steps to work on this project
 File "run_analysis.R".
 
-1.- Downloads the data and reads training and testing tables, feature vector and activity labels. 
-2.- Assigning column names. 
-3.- Merging all data in one set.
-4.- Extracts only the measurements on the mean and standard deviation for each measurement.
-5.- Uses descriptive activity names to name the activities in the data set.
-6.- Appropriately labeling the data set with descriptive variable names.   
-7.- Create a second, independent tidy data set with the average of each variable for each activity and each subject.
-8.- Write tidy data set in txt file.  
+1. Downloads the data and reads training and testing tables, feature vector and activity labels. 
+2. Assigning column names. 
+3. Merging all data in one set.
+4. Extracts only the measurements on the mean and standard deviation for each measurement.
+5. Uses descriptive activity names to name the activities in the data set.
+6. Appropriately labeling the data set with descriptive variable names.   
+7. Create a second, independent tidy data set with the average of each variable for each activity and each subject.
+8. Write tidy data set in txt file.  
 
 
 ## Dependencies
